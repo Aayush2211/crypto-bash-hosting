@@ -21,7 +21,7 @@ const useStyles = makeStyles((theme) => ({
     flex: 1,
     color: "white",
     fontSize : "30px",
-    fontFamily: "Prompt",
+    fontFamily: "Righteous , cursive",
     fontWeight: "bold",
     cursor: "pointer",
   },
